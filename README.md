@@ -1,1 +1,3 @@
-# js-sequence-practice-problems
+# Js Sequence Practice Problems
+
+
